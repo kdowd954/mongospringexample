@@ -1,0 +1,6 @@
+package springboot.example.mediaexample.media;
+
+import org.springframework.data.mongodb.repository.MongoRepository;
+
+public interface MediaRepository extends MongoRepository<Media, String> {
+}
