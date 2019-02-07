@@ -3,7 +3,7 @@ Example of a spring boot web application using mongodb
 
 You can import this idea project into intellij and run it. 
 
-**MongoDB setup
+### MongoDB setup
 
 `brew install mongodb`
 
@@ -13,4 +13,4 @@ You can import this idea project into intellij and run it.
 
 `mongod`
 
-Wee! Have fun!
+### Wee! Have fun!
